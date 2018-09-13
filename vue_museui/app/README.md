@@ -2,6 +2,9 @@
 
 > a pj
 
+#制作过程说明及效果参考
+<https://blog.csdn.net/ssfz123/article/details/82691648>
+
 ## Build Setup
 
 ``` bash
@@ -19,3 +22,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
